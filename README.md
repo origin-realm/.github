@@ -1,3 +1,3 @@
 # origin-realm
 
-GitHub organization profile for the ORIGIN protocol.
+Organization profile for ORIGIN. Public README: `profile/README.md`.
