@@ -9,7 +9,7 @@
 
 Universal World Protocol. Wire name `origin-realm`.
 
-**[genesis.wiki](https://genesis.wiki)** · [art](https://genesis.wiki/art)
+**[genesis.wiki](https://genesis.wiki)**
 
 Compact seal: rim, four ticks, gold axis, nucleus. Full drawing lives on the site org.
 
